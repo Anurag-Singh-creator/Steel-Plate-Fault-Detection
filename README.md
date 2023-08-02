@@ -1,3 +1,3 @@
 # Steel-Plate-Fault-Detection
 
-[View the Presentation](https://docs.google.com/presentation/d/1w19A7tBQHfUAJeMvmroIngScO52t0uOU/edit?usp=sharing&ouid=104245971548352498996&rtpof=true&sd=true)
+[View the Presentation](https://github.com/Anurag-Singh-creator/Steel-Plate-Fault-Detection/blob/main/Steel%20Plate%20Fault%20Detection%20Highlights.pdf)
