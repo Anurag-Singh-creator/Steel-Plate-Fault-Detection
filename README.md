@@ -1,3 +1,3 @@
 # Steel-Plate-Fault-Detection
 
-[View the presentation on SlideShare](https://docs.google.com/presentation/d/1v7QtD8Bq5OFeoZzS8WrIakT_pklUI9g4/edit#slide=id.g10492f1c229_1_1367)
+[View the Presentation](https://docs.google.com/presentation/d/1w19A7tBQHfUAJeMvmroIngScO52t0uOU/edit?usp=sharing&ouid=104245971548352498996&rtpof=true&sd=true)
